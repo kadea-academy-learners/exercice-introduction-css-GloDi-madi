@@ -33,7 +33,7 @@ ul {
     text-align: justify;
     list-style-type: square;
     margin: 0 500px;
-    line-height: 2;
+    line-height: 25px;
 }
 
 footer {
